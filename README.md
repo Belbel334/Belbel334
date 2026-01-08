@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Belbel334
 - 👀 I’m interested in Making games
+- 🐐 I primarily write in c++ but am experienced in other languages as well
 - 📫 If you want you can contact me on discord:dannydedev
